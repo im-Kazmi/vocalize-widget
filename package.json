@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "homepage": "https://your-username.github.io/your-repository",
+  "homepage": "https://im-kazmi.github.io/vocalize-widget",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
